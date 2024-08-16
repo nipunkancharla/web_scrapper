@@ -31,5 +31,3 @@ This project demonstrates how to scrape data from a website using Python. The ex
 - `requirements.txt`: A list of Python libraries needed to run the project.
 - `data/scraped_data.csv`: The output file where the scraped data is stored.
 
-## License
-This project is licensed under the MIT License.
